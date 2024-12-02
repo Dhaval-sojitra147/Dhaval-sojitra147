@@ -1,15 +1,34 @@
-## Hi there 👋
+# Hi, I'm Dhaval Sojitra 👋
 
-**Dhaval-sojitra147/Dhaval-sojitra147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer
 
-Here are some ideas to get you started:
+Experienced developer specializing in **scalable, secure web and mobile applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+## Skills
+
+### Frontend
+- **Languages**: TypeScript, JavaScript (ES6+), Dart
+- **Frameworks & Libraries**: Flutter, React, Next.js, Redux, FlutterFlow, Tailwind CSS
+- **Animations & UI**: Framer Motion, GSAP, Three.js, Zustand, React Hook Form
+
+### Backend
+- **Languages**: Node.js, TypeScript, Dart
+- **Frameworks**: Express.js, Nest.js
+- **Databases**: MongoDB, PostgreSQL, MySQL, Firebase
+- **Authentication**: JWT, OAuth, 2FA
+
+### DevOps & Cloud
+- **CI/CD**: GitHub Actions, Vercel
+- **Cloud**: AWS (Lambda, S3), Cloudflare Workers
+- **Tools**: Docker, Kubernetes, Git, Webpack
+
+---
+
+## 📬 Let's Connect
+- **Email**: [dhaval.artonest@gmail.com](mailto:dhaval.artonest@gmail.com)
+
+---
+
+Feel free to connect and explore my work!
